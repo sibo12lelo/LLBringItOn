@@ -1,0 +1,20 @@
+{
+  "name": "llbringiton",
+  "version": "1.0.0",
+  "description": "Finals love notes - A small, responsive static website for LLB finals",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "test": "echo \"No tests configured for static site\" && exit 0"
+  },
+  "keywords": [
+    "static",
+    "website",
+    "vercel"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
