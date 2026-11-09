@@ -22,13 +22,13 @@ const dailyNotes = [
   {
     day: 12,
     tag: "YOUR OWN PACE IS PERFECT",
-    message: "Sthandwa, you don’t need to race anyone. One clear idea, one focused page, one little break at a time—that is more than enough. I believe in your way of doing things.",
+    message: "Sthandwa, you don’t need to race anyone. One clear idea, one focused page, one little break at a time, that is more than enough. I believe in your way of doing things.",
     signoff: "Always in your corner",
   },
   {
     day: 13,
     tag: "A LITTLE FRIDAY REMINDER",
-    message: "Today might be the hardest day for us, I'm unfortunately going home.(i might not look like it, but i'm really sad) Look at you though, still showing up and doing the work. That quiet determination is one of a thousand things I love about you. Keep going gently, sweetheart. You’re doing beautifully.",
+    message: "Today might be the hardest day for us, I'm unfortunately going home😭😭😭😭.(i might not look like it, but i'm really sad😭) Look at you though, still showing up and doing the work. That quiet determination is one of a thousand things I love about you. Keep going gently, sweetheart. You’re doing beautifully.",
     signoff: "Your biggest fan, always",
   },
   {
@@ -46,7 +46,7 @@ const dailyNotes = [
   {
     day: 16,
     tag: "NEW WEEK, SAME BRILLIANT YOU",
-    message: "New week, Mhlanti. Same bright mind, same brave heart, same person I’m ridiculously lucky to love(still can't believe my luck). You’ve already come such a long way baby, keep taking those little steps.",
+    message: "New week, Mhlanti. Same bright mind, same brave heart, same person I’m ridiculously lucky to love (still can't believe my luck). You’ve already come such a long way baby, keep taking those little steps.",
     signoff: "Love you so much!",
   },
   {
@@ -58,7 +58,7 @@ const dailyNotes = [
   {
     day: 18,
     tag: "TOMORROW, THE VERY LAST ONE",
-    message: "Tomorrow is your last paper, Sthandwa! Today, trust what you’ve learned and leave a little room for rest(I know you won't though). I already admire you so much. The finish line is right there, my love.",
+    message: "Tomorrow is your last paper baby!!!! Today, trust what you’ve learned and leave a little room for rest(I know you won't though). I already admire you so much. The finish line is right there, my love.",
     signoff: "One more, then you're right there!",
   },
   {
