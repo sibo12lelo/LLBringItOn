@@ -1,0 +1,23 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "A small, responsive static website for LLB finals from 10 to 19 November 2026. It includes a live countdown, an interactive calendar with a note for each day, and both exam details.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sibo12lelo/LLBringItOn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sibo12lelo/LLBringItOn/issues"
+  },
+  "homepage": "https://github.com/sibo12lelo/LLBringItOn#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
